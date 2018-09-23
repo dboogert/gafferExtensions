@@ -1,0 +1,25 @@
+{
+    "NoisySphere" : 
+    {
+        "metadata" :  
+        {
+            "description" : "Generate a noise displaced sphere",
+            "type" : "box",
+            "version" : "0.1",
+            "min-gaffer-version" : "0.49.0.0",
+            "max-gaffer-version" : "0.49.0.0",  
+            "logo" : "",
+            "banner-image" : "noisySphere/screenshot.png"
+        },
+        "docs" : 
+        {
+            "file" : "",
+            "images" : [],
+            "example" : "noisySphere/noisySphere.gfr"
+        },
+        "box" : 
+        {
+            "src" : "noisySphere/noisySphere.grf"
+        }
+    }
+}
